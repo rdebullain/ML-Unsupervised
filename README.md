@@ -1,4 +1,4 @@
-# Project: Analyzing WholeSale Data Using Unsupervised Machine Learning 
+# Project: WholeSale Data Analysis Using Unsupervised Machine Learning 
 
 ## Project Overview
 This project involves the application of unsupervised learning techniques on the Wholesale Data dataset to identify patterns and group similar data points. The main tasks include exploratory data analysis (EDA), data pre-processing, KMeans clustering, hierarchical clustering, and Principal Component Analysis (PCA).
